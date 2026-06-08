@@ -13,10 +13,11 @@ safe-outputs:
 tools:
   edit:
   web-fetch:
-  network:
-    allowed:
-      - github.com
-      - github.blog
+ 
+network:
+  allowed:
+    - github.com
+    - github.blog
 ---
 
 # Update Mona's GitHub Info website
