@@ -17,5 +17,5 @@ Mona's website focuses on practical GitHub guidance backed by official reference
 
 ## Latest GitHub Updates
 
-- Gi recently improved developer workflows with better automation for Actions and AI-assisted tooling.
+- GitHub recently improved developer workflows with better automation for Actions and AI-assisted tooling.
 - New updates in the GitHub Changelog highlight improvements in repository automation and CI/CD reliability.
