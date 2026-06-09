@@ -13,11 +13,14 @@ safe-outputs:
 tools:
   edit:
   web-fetch:
- 
+
 network:
   allowed:
     - github.com
     - github.blog
+
+env:
+  GH_AW_DEFAULT_MODEL_COPILOT: claude-haiku-4.5
 ---
 
 # Update Mona's GitHub Info website
