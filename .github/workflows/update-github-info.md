@@ -29,6 +29,9 @@ Use these sources:
 - GitHub Blog: https://github.blog/latest/
 - GitHub Changelog: https://github.blog/changelog/
 
+sources:
+- awesome-copilot workflows https://awesome-copilot.github.com/workflows/
+
 Update `site/content/github-info.md` with concise,
 practical updates for readers and include source context when content comes
 from the GitHub Blog or GitHub Changelog.
