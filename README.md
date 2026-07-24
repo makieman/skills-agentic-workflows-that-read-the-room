@@ -14,7 +14,7 @@
 ---
 
 
-## 🚀 Share Your Success!
+## 🚀 Share Your Success
 
 **Show off your new skills and inspire others!**
 
