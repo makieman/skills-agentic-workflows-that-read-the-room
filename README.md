@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎉 Congratulations makieman! 🎉
+# 🎉 Congratulations makieman! 
 
 <img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
 
